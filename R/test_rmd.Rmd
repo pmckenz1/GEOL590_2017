@@ -16,7 +16,7 @@ ggplot(diamonds, aes(x=x,y=y, colour=color)) +
 ```
 
 # Displaying in-line code
-Here's some text, including inline code which should be the number four: `2+2`. 
+Here's some text, including inline code which should be the number four: `r {2+2}`. 
 
 # Displaying data frames
 
